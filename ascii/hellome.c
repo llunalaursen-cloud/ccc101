@@ -1,8 +1,7 @@
 # include <stdio.h>
 # include <conio.h>
 
-void main ()
-
+int main(void)
 {
 
 printf("                                            ......... .\n");
@@ -47,7 +46,7 @@ printf("   .7G&&&&&&&&&&&&&&&&&&&BGBBBBGGGGGGGGGGGGGGGGGBBBBBGGBBBBBGGGGGGGBBBBB
 printf("  7B&&&&&&&&&&&&&&&#&&&&&&BBBBBBBBBBBBBBBBBBBGGGGGBBBBBBBBBB########BB#&&&&&&&&&&&&&&&&&&&&&&######\n");
 
 
-return 0;
+return 0; 
 
 
 }
